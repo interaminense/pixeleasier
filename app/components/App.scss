@@ -1,1 +1,48 @@
-// Scss Code Component here.
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed');
+
+* {
+	box-sizing: border-box;
+}
+
+body,
+html {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	background-color: #9ba2a5;
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size: 14px;
+}
+
+.container {
+	width: 500px;
+	height: 400px;
+	margin: auto;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	text-align: center;
+
+	.title {
+		color: #3f51b5;
+		margin: 0;
+	}
+}
+
+.frames {	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	.frame {
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+		margin: 0 30px;
+	}
+}
