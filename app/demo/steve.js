@@ -1,6 +1,4 @@
-import Pixeleasier from './Pixeleasier/Pixeleasier';
-
-import './App.scss';
+import Pixeleasier from './../Pixeleasier/Pixeleasier';
 
 const _ = 'transparent';
 const H = '#564D40';

@@ -1,1 +1,3 @@
-import Component from './components/App';
+import './index.scss';
+import './demo/steve';
+import './demo/batman';
