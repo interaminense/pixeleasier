@@ -51,7 +51,9 @@ const arrBatman = [
 
 const containerCss = document.querySelector('#batmanCss');
 const containerHtml = document.querySelector('#batmanHtml');
+const containerSvg = document.querySelector('#batmanSvg');
 
 const batman = new Pixeleasier(arrBatman, 5);
 containerCss.appendChild(batman.css());
 containerHtml.appendChild(batman.html());
+containerSvg.appendChild(batman.svg());

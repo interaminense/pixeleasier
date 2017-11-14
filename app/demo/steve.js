@@ -76,7 +76,9 @@ const arrSteve = [
 
 const containerCss = document.querySelector('#steveCss');
 const containerHtml = document.querySelector('#steveHtml');
+const containerSvg = document.querySelector('#steveSvg');
 
 const steve = new Pixeleasier(arrSteve, 5);
 containerCss.appendChild(steve.css());
 containerHtml.appendChild(steve.html());
+containerSvg.appendChild(steve.svg());

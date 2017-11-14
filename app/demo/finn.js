@@ -29,7 +29,9 @@ const arrFinn = [
 
 const containerCss = document.querySelector('#finnCss');
 const containerHtml = document.querySelector('#finnHtml');
+const containerSvg= document.querySelector('#finnSvg');
 
 const finn = new Pixeleasier(arrFinn, 5);
 containerCss.appendChild(finn.css());
 containerHtml.appendChild(finn.html());
+containerSvg.appendChild(finn.svg());
