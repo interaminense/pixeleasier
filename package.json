@@ -41,6 +41,6 @@
     "webpack-dev-server": "^2.9.4"
   },
   "dependencies": {
-    "pixeleasier": "^1.0.2"
+    "pixeleasier": "^1.0.7"
   }
 }
