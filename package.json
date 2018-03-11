@@ -4,8 +4,11 @@
   "description": "This boilerplate was built in order to aid in the process of creating static applications",
   "main": "index.js",
   "scripts": {
-    "prod": "webpack",
-    "dev": "webpack-dev-server --progress --colors --inline --hot"
+		"build": "webpack",
+		"demo": "npm run build && http-server ./dist -p 5000",
+		"dev": "webpack-dev-server --progress --colors --inline --hot",
+		"publish": "npm run build && npm run wedeploy",
+		"wedeploy": "cd dist && we deploy -p pixeleasier && cd .."
   },
   "repository": {
     "type": "git",
