@@ -1,7 +1,9 @@
 import Pixeleasier from '../js/Pixeleasier';
 import {createHTMLFrame} from '../js/utils';
 
-createHTMLFrame('batman', 'Batman', '#485779');
+const id = 'batman';
+
+createHTMLFrame(id, 'Batman', '#485779');
 
 const _ = 'transparent';
 const A = '#142132';
@@ -52,9 +54,9 @@ const arrBatman = [
 	[_, _, _, A, A, A, A, A, _, A, A, A, A, A, _, _, _]
 ]
 
-const containerCss = document.querySelector('#batmanCSS');
-const containerHtml = document.querySelector('#batmanHTML');
-const containerSvg = document.querySelector('#batmanSVG');
+const containerCss = document.querySelector(`#${id}CSS`);
+const containerHtml = document.querySelector(`#${id}HTML`);
+const containerSvg = document.querySelector(`#${id}SVG`);
 
 const batman = new Pixeleasier(arrBatman, 5);
 containerCss.appendChild(batman.css());

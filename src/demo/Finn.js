@@ -1,7 +1,9 @@
 import Pixeleasier from '../js/Pixeleasier';
 import {createHTMLFrame} from '../js/utils';
 
-createHTMLFrame('finn', 'Finn', '#75d64a');
+const id = 'finn';
+
+createHTMLFrame(id, 'Finn', '#75d64a');
 
 const _ = 'transparent';
 const A = '#0F3239';
@@ -30,9 +32,9 @@ const arrFinn = [
 	[_, _, A, A, A, _, _, _, _, A, A, A, _, _, ]
 ]
 
-const containerCss = document.querySelector('#finnCSS');
-const containerHtml = document.querySelector('#finnHTML');
-const containerSvg= document.querySelector('#finnSVG');
+const containerCss = document.querySelector(`#${id}CSS`);
+const containerHtml = document.querySelector(`#${id}HTML`);
+const containerSvg= document.querySelector(`#${id}SVG`);
 
 const finn = new Pixeleasier(arrFinn, 5);
 containerCss.appendChild(finn.css());
