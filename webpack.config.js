@@ -8,7 +8,7 @@ const extractSass = new ExtractTextWebpackPlugin({
 });
 
 const config = {
-  entry: './app/index.js',
+  entry: './src/index.js',
   output: {
     path: path.join(__dirname, 'dist'),
     filename: 'bundle.js',
@@ -16,7 +16,7 @@ const config = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: path.join(__dirname, 'app', 'index.html'),
+      template: path.join(__dirname, 'src', 'index.html'),
     }),
     extractSass,
   ],
