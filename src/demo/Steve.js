@@ -1,4 +1,4 @@
-import Pixeleasier from 'pixeleasier';
+import Pixeleasier from '../js/Pixeleasier';
 
 const _ = 'transparent';
 const H = '#564D40';
