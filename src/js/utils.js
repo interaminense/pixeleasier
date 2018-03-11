@@ -66,11 +66,57 @@ const setAttr = (element, attributes) => {
 	return element;
 }
 
+const createFrame = (label, type) => {
+	const frame = createElement('div');
+	frame.className = 'frame';
+
+	const subtitle = createElement('h2');
+	subtitle.textContent = type;
+
+	const divLabel = document.createElement('div');
+	setAttr(divLabel, {id: `${label}${type}`});
+
+	frame.appendChild(subtitle);
+	frame.appendChild(divLabel);
+
+	return frame;
+}
+
+const createHTMLFrame = (label, title, bgColor) => {
+	const main = document.querySelector('#main');
+
+	console.log(main);
+
+	const bg = createElement('div');
+	bg.className = `bg bg-${label}`;
+	setStyle(bg, {backgroundColor: bgColor});
+
+	const h1 = createElement('h1');
+	h1.textContent = title;
+
+	const frames = createElement('div');
+	frames.className = 'frames';
+
+	const frameHTML = createFrame(label, 'HTML');
+	const frameCSS = createFrame(label, 'CSS');
+	const frameSVG = createFrame(label, 'SVG');
+
+	frames.appendChild(frameHTML);
+	frames.appendChild(frameCSS);
+	frames.appendChild(frameSVG);
+
+	bg.appendChild(h1);
+	bg.appendChild(frames);
+
+	main.appendChild(bg);
+}
+
 export {
 	isNumeric,
 	isArray,
 	newError,
 	createElement,
 	setStyle,
-	setAttr
+	setAttr,
+	createHTMLFrame
 };

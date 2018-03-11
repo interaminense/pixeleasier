@@ -12,20 +12,18 @@ html {
 }
 
 body {
-	background-color: #8ca5b1;
+	background-color: #3F51B5;
 	font-family: 'Barlow Condensed', sans-serif;
 	font-size: 14px;
+	color: #fff;
 }
 
 .container {
-	width: 500px;
-	height: 400px;
-	margin: 30px auto;
+	width: 100%;
 	text-align: center;
 
 	.title {
-		color: #3f51b5;
-		margin: 0;
+		margin: 3rem 0;
 	}
 }
 
@@ -40,4 +38,9 @@ body {
 		flex-direction: column;
 		margin: 0 30px;
 	}
+}
+
+.bg {
+	padding: 1rem 0 4rem;
+	color: rgba(0, 0, 0, .4);
 }

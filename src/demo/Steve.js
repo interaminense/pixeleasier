@@ -1,4 +1,7 @@
 import Pixeleasier from '../js/Pixeleasier';
+import {createHTMLFrame} from '../js/utils';
+
+createHTMLFrame('steve', 'Steve Jobs', '#718a9e');
 
 const _ = 'transparent';
 const H = '#564D40';
@@ -74,9 +77,9 @@ const arrSteve = [
 	[_, _, _, _s, _s, _s, _s, _s, _s, _s, _s, _s, _s, _s, _s, _, _]
 ];
 
-const containerCss = document.querySelector('#steveCss');
-const containerHtml = document.querySelector('#steveHtml');
-const containerSvg = document.querySelector('#steveSvg');
+const containerCss = document.querySelector('#steveCSS');
+const containerHtml = document.querySelector('#steveHTML');
+const containerSvg = document.querySelector('#steveSVG');
 
 const steve = new Pixeleasier(arrSteve, 5);
 containerCss.appendChild(steve.css());

@@ -1,4 +1,7 @@
 import Pixeleasier from '../js/Pixeleasier';
+import {createHTMLFrame} from '../js/utils';
+
+createHTMLFrame('robotCop', 'Robot Cop', '#84776c');
 
 const _ = 'transparent';
 const A = '#999999';
@@ -53,9 +56,9 @@ const arrRobotCop = [
 	[_, _, B, B, B, B, B, _, _, _, A, B, B, B, B, _, _,],
 ]
 
-const containerCss = document.querySelector('#robotCopCss');
-const containerHtml = document.querySelector('#robotCopHtml');
-const containerSvg = document.querySelector('#robotCopSvg');
+const containerCss = document.querySelector('#robotCopCSS');
+const containerHtml = document.querySelector('#robotCopHTML');
+const containerSvg = document.querySelector('#robotCopSVG');
 
 const robotCop = new Pixeleasier(arrRobotCop, 5);
 containerCss.appendChild(robotCop.css());
