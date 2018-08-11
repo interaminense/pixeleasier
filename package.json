@@ -1,49 +1,48 @@
 {
-  "name": "boilerplate",
-  "version": "3.0.0",
-  "description": "This boilerplate was built in order to aid in the process of creating static applications",
-  "main": "index.js",
-  "scripts": {
-		"build": "webpack",
-		"demo": "npm run build && http-server ./dist -p 5000",
-		"dev": "webpack-dev-server --progress --colors --inline --hot",
-		"publish": "npm run build && npm run wedeploy",
-		"wedeploy": "cd dist && we deploy -p pixeleasier && cd .."
+ "name": "pixeleasier",
+ "version": "1.0.0",
+ "description": "A simple tool for creating drawings in pixels",
+ "main": "dist/pixeleasier.js",
+ "scripts": {
+  "build": "webpack --config webpack.config.js --mode production",
+  "dev": "webpack --config webpack.config.js --mode development --watch",
+  "start": "http-server . -p 8090",
+  "test": "jest --coverage"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/interaminense/Pixeleasier.git"
+ },
+ "author": "Adriano Interaminense",
+ "license": "MIT",
+ "bugs": {
+  "url": "https://github.com/interaminense/Pixeleasier/issues"
+ },
+ "homepage": "https://demo-pixeleasier.wedeploy.io/",
+ "devDependencies": {
+  "babel-core": "^6.26.3",
+  "babel-eslint": "^8.2.6",
+  "babel-jest": "^23.4.2",
+  "babel-preset-env": "^1.7.0",
+  "http-server": "^0.11.1",
+  "jest": "^23.5.0",
+  "jest-environment-jsdom": "^23.4.0",
+  "webpack": "^4.16.5",
+  "webpack-cli": "^3.1.0"
+ },
+ "transform": {
+  "^.+\\.jsx?$": "babel-jest"
+ },
+ "jest": {
+  "coverageDirectory": "build/coverage",
+  "coverageThreshold": {
+   "global": {
+    "branches": 90,
+    "functions": 90,
+    "lines": 90
+   }
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/interaminense/boilerplate.git"
-  },
-  "keywords": [
-    "boilerplate",
-    "boilerplate",
-    "interaminense",
-    "boilerplate",
-    "webpack"
-  ],
-  "author": "Adriano Interaminense",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/interaminense/boilerplate/issues"
-  },
-  "homepage": "https://github.com/interaminense/boilerplate#readme",
-  "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
-    "babel-preset-es2015": "^6.24.1",
-    "css-loader": "^0.28.7",
-    "eslint": "^4.10.0",
-    "eslint-config-airbnb-base": "^11.3.2",
-    "eslint-plugin-import": "^2.8.0",
-    "extract-text-webpack-plugin": "^2.1.2",
-    "html-webpack-plugin": "^2.30.1",
-    "node-sass": "^4.6.0",
-    "sass-loader": "^6.0.6",
-    "style-loader": "^0.18.2",
-    "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.4"
-  },
-  "dependencies": {
-    "pixeleasier": "^1.0.7"
-  }
+  "verbose": true,
+  "testURL": "http://localhost/"
+ }
 }
