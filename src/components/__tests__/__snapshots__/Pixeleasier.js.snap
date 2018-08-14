@@ -1,0 +1,1005 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pixeleasier should render a Pixeleasier component with size 5px 1`] = `
+<div
+  class="pixeleasier-container"
+>
+  <div
+    class="pixeleasier-draw"
+    style="width: 70px; height: 80px; position: relative;"
+  >
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 0px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 5px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 10px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 15px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 20px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 25px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 30px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 35px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 40px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(113, 190, 78); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(113, 190, 78); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(255, 255, 255); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(113, 190, 78); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(113, 190, 78); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 45px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(113, 190, 78); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(113, 190, 78); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 50px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(113, 190, 78); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(113, 190, 78); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 55px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(246, 219, 217); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 60px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(73, 201, 243); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 65px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 70px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(66, 106, 176); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 70px; height: 5px; position: absolute; left: 0px; top: 75px;"
+    >
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 0px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 5px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 10px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 15px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 20px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 25px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 30px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 35px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 40px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 45px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 50px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: rgb(15, 50, 57); position: absolute; left: 55px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 60px; top: 0px;"
+      />
+      <div
+        class="pixeleasier-pixel"
+        style="display: block; width: 5px; height: 5px; background-color: transparent; position: absolute; left: 65px; top: 0px;"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Pixeleasier should render a Pixeleasier empty component 1`] = `
+<div
+  class="pixeleasier-container"
+>
+  <div
+    class="pixeleasier-draw"
+    style="width: 0px; height: 10px; position: relative;"
+  >
+    <div
+      class="pixeleasier-row"
+      style="display: block; width: 0px; height: 10px; position: absolute; left: 0px; top: 0px;"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`classes should return the container classname 1`] = `"pixeleasier-container"`;
+
+exports[`classes should return the css classname 1`] = `"pixeleasier-css"`;
+
+exports[`classes should return the draw classname 1`] = `"pixeleasier-draw"`;
+
+exports[`classes should return the pixel classname 1`] = `"pixeleasier-pixel"`;
+
+exports[`classes should return the row classname 1`] = `"pixeleasier-row"`;
+
+exports[`prefix should return the prefix name "pixeleasier" 1`] = `"pixeleasier"`;
