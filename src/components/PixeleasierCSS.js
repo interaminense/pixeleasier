@@ -1,4 +1,4 @@
-import Pixeleasier from '../pixeleasier';
+import Pixeleasier from './Pixeleasier';
 import { createElement, setStyle } from '../utils/dom';
 import { classes } from '../utils/constants';
 
