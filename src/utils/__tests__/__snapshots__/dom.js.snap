@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`createElement should return a div element created 1`] = `<div />`;
+
+exports[`createElement should return a div element created with a classname 1`] = `
+<div
+  class="my-classname"
+/>
+`;
+
+exports[`createElement should return a div element created with two classnames 1`] = `
+<div
+  class="my-classname my-classname-2"
+/>
+`;
+
+exports[`createElement should return a div element created without any parameter 1`] = `<div />`;
+
+exports[`getElementByType should return a element type h1 1`] = `<h1 />`;
+
+exports[`getElementByType should return a element type rect 1`] = `<rect />`;
+
+exports[`getElementByType should return a element type span 1`] = `<span />`;
+
+exports[`getElementByType should return a element type svg 1`] = `<svg />`;
+
+exports[`setAttr should return a div element with a title attribute 1`] = `
+<div
+  title="my title"
+/>
+`;
+
+exports[`setAttr should return a div element with more than one attribute 1`] = `
+<svg
+  height="100px"
+  style="fill:red"
+  width="100px"
+  x="10px"
+  y="10px"
+/>
+`;
+
+exports[`setStyle should return a div element with background-color red style 1`] = `
+<div
+  style="background-color: red;"
+/>
+`;
+
+exports[`setStyle should return a div element with more than one style 1`] = `
+<div
+  style="background-color: red; color: green; font-size: 14px; height: 100px; width: 100px;"
+/>
+`;
