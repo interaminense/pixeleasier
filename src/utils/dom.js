@@ -1,10 +1,12 @@
 export const createElement = (tagName = 'div', classes) => {
 	const element = getElementByType(tagName);
 
-	if (Array.isArray(classes)) {
-		element.classList.add(...classes);
-	} else {
-		element.classList.add(classes);
+	if (classes) {
+		if (Array.isArray(classes)) {
+			element.classList.add(...classes);
+		} else {
+			element.classList.add(classes);
+		}
 	}
 
 	return element;
